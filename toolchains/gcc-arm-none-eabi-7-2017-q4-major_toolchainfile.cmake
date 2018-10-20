@@ -1,7 +1,7 @@
 # ---------------------------------------------------------------------------- #
 # ---------------------------------------------------------------------------- #
 set(TOOLCHAINS_DIR ${CMAKE_SOURCE_DIR}/toolchains)
-set(TOOLCHAIN_DIR  ${TOOLCHAINS_DIR}/gcc-arm-none-eabi-7-2017-q4-major/gcc-arm-none-eabi-7-2017-q4-major)
+set(TOOLCHAIN_DIR  ${TOOLCHAINS_DIR}/gcc-arm-none-eabi-7-2017-q4-major-linux/gcc-arm-none-eabi-7-2017-q4-major-linux)
 # ---------------------------------------------------------------------------- #
 
 # ---------------------------------------------------------------------------- #
